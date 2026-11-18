@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/1fly) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-一翻云（1fly）是同时提供自研客户端和通用订阅的机场服务，常见叫法包括“一翻云 VPN”“一翻云梯子”和“一翻云机场”。通用订阅可在兼容软件中使用代理节点；轻度用户可先看 ¥98 年付小包，需要更多流量时再比较月付档位、专线质量与解锁范围。
-
 > [!NOTE]
 > **30 秒看懂一翻云**
 >
-> - **最低门槛**：60GB/月年付版 ¥98，适合轻度使用或备用线路。
-> - **核心特点**：专线节点、自研客户端与通用订阅并存，可按使用习惯选择。
-> - **优惠与场景**：新用户可用 9 折码；原生 IP 节点支持主流流媒体与 AI 服务。
+> [访问官网](https://eoht.net/serve/airport/1fly) · <a href="#1fly-vpn-plans">查看套餐与优惠</a> · <a href="#1fly-speed-test">查看测速与解锁</a> · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> <a href="#1fly-vpn-plans">查看套餐与优惠</a> · <a href="#1fly-speed-test">查看测速与解锁</a> · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：年付版 ¥98/年、60GB/月，适合轻度使用或备用线路；需要更多流量时可比较下方其他档位。
+> - **服务方式**：专线节点，自研客户端与通用订阅并存，可按使用习惯选择；通用订阅可导入兼容的第三方软件。
+> - **优惠与场景**：新用户可用 9 折码；原生 IP 节点支持主流流媒体与 AI，选择前可查看对应套餐及测速、解锁记录。
 >
+
+一翻云（1fly）是同时提供自研客户端和通用订阅的机场服务，常见叫法包括“一翻云 VPN”“一翻云梯子”和“一翻云机场”。通用订阅可在兼容软件中使用代理节点；轻度用户可先看 ¥98 年付小包，需要更多流量时再比较月付档位、专线质量与解锁范围。
 
 <a id="1fly-official-website"></a>
 
